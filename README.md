@@ -1,4 +1,4 @@
-# Internship @ Find Me (Jun – Sep 2025)
+# Internship @ Find Me (Sep 2024 – Sep 2025)
 
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
 ![Azure Functions](https://img.shields.io/badge/Serverless-Azure%20Functions-blue)
