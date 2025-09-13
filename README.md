@@ -1,9 +1,11 @@
 # Internship @ Find Me (Sep 2024 – Sep 2025)
 
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
-![Azure Functions](https://img.shields.io/badge/Serverless-Azure%20Functions-blue)
-![CosmosDB](https://img.shields.io/badge/Database-CosmosDB-lightgrey)
-![Azure DevOps](https://img.shields.io/badge/CI%2FCD-Azure%20DevOps-purple)
+   ![React](https://img.shields.io/badge/Frontend-React-blue)
+   ![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6)
+   ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+   ![Azure Functions](https://img.shields.io/badge/Serverless-Azure%20Functions-blue)
+   ![CosmosDB](https://img.shields.io/badge/Database-CosmosDB-lightgrey)
+   ![Azure DevOps](https://img.shields.io/badge/CI%2FCD-Azure%20DevOps-purple)
 
 
 This repository documents my **frontend and backend contributions** during my Full Stack Engineer Internship at **Find Me, New York, USA**.  
